@@ -1,2 +1,0 @@
-# MyReact
-My React Apps
